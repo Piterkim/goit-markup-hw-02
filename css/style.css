@@ -15,7 +15,7 @@
 .list {
   list-style: none;
 }
-/* site-nav */
+
 .link-nav {
   color: var(--title-text-color);
   font-weight: 500;
@@ -153,7 +153,7 @@
   line-height: 1.19;
   letter-spacing: 0.03em;
 }
-/* footer */
+
 .adress {
   font-style: normal;
   background-color: #2f303a;
