@@ -46,7 +46,7 @@ body {
 /* Убираем точки из списков */
 
 .list {
-  list-style: none;
+  text-transform: uppercase;
 }
 
 /* Навигация сайта */
@@ -130,6 +130,9 @@ body {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 700;
+}
+.section-title {
+  color: #212121;
 }
 
 .section-title-photo {
